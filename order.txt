@@ -1,0 +1,6 @@
+001) cmd + t  new tab
+002) cmd + shift + {} tab 切换
+003) terminate open program. 
+	a. open -a safari
+004) cmd + n ; open new terminate
+
