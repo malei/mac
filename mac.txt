@@ -1,0 +1,5 @@
+001) 
+	ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+	brew search nginx     //查看是否有此包
+	brew install nginx    //安装该包
+002) 
