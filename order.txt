@@ -3,4 +3,6 @@
 003) terminate open program. 
 	a. open -a safari
 004) cmd + n ; open new terminate
-
+005) cmd + d; 水平分割terminate；cmd ＋ shift ＋ d；垂直分割terminate
+006) cmd + r; safari refresh.
+007) cmd + o; open a file using keyboard
